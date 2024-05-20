@@ -46,4 +46,4 @@ flask run
 
 •	[Havish Vakkalanka](https://github.com/havish-vakkalanka) **:** Co-developer of the project.
 
-•	[Havish Vakkalanka](https://github.com/rohithrajthalla)  **:** Co-developer of the project.
+•	[Rohith Raj Thalla](https://github.com/rohithrajthalla)  **:** Co-developer of the project.
